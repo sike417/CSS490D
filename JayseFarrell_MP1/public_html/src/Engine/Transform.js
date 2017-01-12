@@ -7,7 +7,6 @@
 /*jslint node: true, vars: true */
 /*global gEngine: false, vec2: false, Math: false, mat4: false, vec3: false */
 /* find out more about jslint: http://www.jslint.com/help.html */
-
 "use strict";
 
 function Transform() {

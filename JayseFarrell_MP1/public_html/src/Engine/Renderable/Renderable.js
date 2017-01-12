@@ -22,11 +22,11 @@ function Renderable(shader) {
 // Public methods
 //**-----------------------------------------
 Renderable.prototype.draw = function (vpMatrix) {
-    var gl = gEngine.Core.getGL();
-    this.mShader.activateShader(this.mColor, vpMatrix);  // always activate the shader first!
-    this.mShader.loadObjectTransform(this.mXform.getXform());
-    gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4);
 };
+// var gl = gEngine.Core.getGL();
+// this.mShader.activateShader(this.mColor, vpMatrix);  // always activate the shader first!
+// this.mShader.loadObjectTransform(this.mXform.getXform());
+// gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4);
 
 Renderable.prototype.getXform = function () { return this.mXform; };
 Renderable.prototype.setColor = function (color) { this.mColor = color; };

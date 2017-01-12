@@ -78,6 +78,7 @@ SimpleShader.prototype.activateShader = function (pixelColor, vpMatrix) {
     gl.enableVertexAttribArray(this.mShaderVertexPositionAttribute);
     gl.uniform4fv(this.mPixelColor, pixelColor);
 };
+
 // Loads per-object model transform to the vertex shader
 SimpleShader.prototype.loadObjectTransform = function (modelTransform) {
     var gl = gEngine.Core.getGL();

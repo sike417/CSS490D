@@ -18,15 +18,8 @@ gEngine.Core = (function () {
     // The graphical context to draw to
     var mGL = null;
 
-    //**----------------------------
-    // Public methods:
-    //**-----------------------------
-    //
-    // Accessor of the webgl context
-    var getGL = function () { return mGL; };
-
     // initialize the WebGL, the vertex buffer and compile the shaders
-    var initializeWebGL = function (htmlCanvasID) {
+    var _initializeWebGL = function (htmlCanvasID) {
         var canvas = document.getElementById(htmlCanvasID);
 
         // Get the standard or experimental webgl and binds to the Canvas area
@@ -37,10 +30,22 @@ gEngine.Core = (function () {
             document.write("<br><b>WebGL is not supported!</b>");
             return;
         }
-
-        // now initialize the VertexBuffer
-        gEngine.VertexBuffer.initialize();
     };
+    
+    //**----------------------------
+    // Public methods:
+    //**-----------------------------
+    //
+    // Accessor of the webgl context
+    var getGL = function () { return mGL; };
+
+    // initialize all of the EngineCore components
+    var initializeEngineCore = function (htmlCanvasID) {
+        _initializeWebGL(htmlCanvasID);
+        gEngine.VertexBuffer.initialize();
+        gEngine.Input.initialize();
+    };
+
 
     // Clears the draw area and draws one square
     var clearCanvas = function (color) {
@@ -48,12 +53,19 @@ gEngine.Core = (function () {
         mGL.clear(mGL.COLOR_BUFFER_BIT);      // clear to the color previously set
     };
 
+    var inheritPrototype = function (subClass, superClass) {
+        var prototype = Object.create(superClass.prototype);
+        prototype.constructor = subClass;
+        subClass.prototype = prototype;
+    };
+
     // -- end of public methods
 
     var mPublic = {
         getGL: getGL,
-        initializeWebGL: initializeWebGL,
-        clearCanvas: clearCanvas
+        initializeEngineCore: initializeEngineCore,
+        clearCanvas: clearCanvas,
+        inheritPrototype: inheritPrototype
     };
 
     return mPublic;
