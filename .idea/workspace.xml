@@ -2,27 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="669fbc95-4c41-43d3-8186-87b0a5e0383a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/fav_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/CSS/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_GameLoop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_Input.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Renderable/SquareRenderable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/MyGame/MyGame.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/src/MyGame/MyGame.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/nbproject/project.properties" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/nbproject/project.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/nbproject/project.xml" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/nbproject/project.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/src/Engine/Camera.js" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Camera.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/src/Engine/Core/Engine_Core.js" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_Core.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/src/Engine/Core/Engine_VertexBuffer.js" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_VertexBuffer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/src/Engine/Renderable.js" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Renderable/Renderable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/src/Engine/SimpleShader.js" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/SimpleShader.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/src/Engine/Transform.js" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Transform.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/src/GLSLShaders/SimpleFS.glsl" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/GLSLShaders/SimpleFS.glsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/src/GLSLShaders/SimpleVS.glsl" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/GLSLShaders/SimpleVS.glsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JayseFarrellMP1/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/lib/gl-matrix.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CSS490D.iws" />
@@ -491,19 +470,20 @@
       <workItem from="1484004652443" duration="13897000" />
       <workItem from="1484091200571" duration="11675000" />
       <workItem from="1484173181690" duration="9279000" />
-      <workItem from="1484185263842" duration="283000" />
+      <workItem from="1484185263842" duration="860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36613000" />
+    <option name="totallyTimeSpent" value="37190000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18005952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -548,6 +528,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -641,6 +624,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -727,19 +713,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/nbproject/project.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JayseFarrellMP1/public_html/index.html" />
     <entry file="file://$PROJECT_DIR$/JayseFarrellMP1/public_html/src/index.js" />
     <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -747,6 +727,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -759,6 +742,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -766,6 +752,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -774,6 +761,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -781,6 +771,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -811,6 +804,14 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/nbproject/project.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
