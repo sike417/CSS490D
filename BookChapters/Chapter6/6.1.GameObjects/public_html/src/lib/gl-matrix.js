@@ -3529,7 +3529,7 @@ mat4.fromQuat = function (out, q) {
 };
 
 /**
- * Generates a frustum matrix with the given bounds
+ * Generates a frustum matrix with the given mIntBound
  *
  * @param {mat4} out mat4 frustum matrix will be written into
  * @param {Number} left Left bound of the frustum
@@ -3564,7 +3564,7 @@ mat4.frustum = function (out, left, right, bottom, top, near, far) {
 };
 
 /**
- * Generates a perspective projection matrix with the given bounds
+ * Generates a perspective projection matrix with the given mIntBound
  *
  * @param {mat4} out mat4 frustum matrix will be written into
  * @param {number} fovy Vertical field of view in radians
@@ -3596,7 +3596,7 @@ mat4.perspective = function (out, fovy, aspect, near, far) {
 };
 
 /**
- * Generates a orthogonal projection matrix with the given bounds
+ * Generates a orthogonal projection matrix with the given mIntBound
  *
  * @param {mat4} out mat4 frustum matrix will be written into
  * @param {number} left Left bound of the frustum

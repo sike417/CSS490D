@@ -13,7 +13,7 @@
 function SpriteRenderable(myTexture) {
     TextureRenderable.call(this, myTexture);
     Renderable.prototype._setShader.call(this, gEngine.DefaultResources.getSpriteShader());
-    this.mTexLeft = 0.0;   // bounds of texture coordinate (0 is left, 1 is right)
+    this.mTexLeft = 0.0;   // mIntBound of texture coordinate (0 is left, 1 is right)
     this.mTexRight = 1.0;  // 
     this.mTexTop = 1.0;    //   1 is top and 0 is bottom of image
     this.mTexBottom = 0.0; // 

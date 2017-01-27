@@ -4,7 +4,7 @@
  */
 
 /*jslint node: true, vars: true, white: true */
-/*global gEngine, Scene, Hero, Camera, SceneFileParser, FontRenderable, vec2 */
+/*global gEngine, Scene, Hero, Camera, JSONSceneFileParser, FontRenderable, vec2 */
 /* find out more about jslint: http://www.jslint.com/help.html */
 
 "use strict";  // Operate in Strict mode such that variables must be declared before used!
@@ -123,7 +123,7 @@ GameLevel_01.prototype.initialize = function () {
     gEngine.DefaultResources.setGlobalAmbientIntensity(0.2);
 
     // parse the entire scene
-    var parser = new SceneFileParser(this.kLevelFile);
+    var parser = new JSONSceneFileParser(this.kLevelFile);
     this.mCamera = parser.parseCamera();
     this.mGlobalLightSet = parser.parseLights();
 

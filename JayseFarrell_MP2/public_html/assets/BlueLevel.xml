@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<MyGameLevel>
+    <!-- *** be careful!! comma (,) is not a supported syntax!! -->
+    <!-- make sure there are no comma in between attributes -->
+    <!-- e.g., do NOT do: PosX="20", PosY="30" -->
+    <!-- notice the "comma" between PosX and PosY: Syntax error! -->
+    <!-- cameras -->
+    <!-- Viewport: x, y, w, h -->
+    <Camera BgColor="0 0 1 1.0" Viewport="20 40 600 300" Width="20" CenterY="60" CenterX="20"/>
+    <!-- Squares Rotation is in degree -->
+    <Square Width="5" Color="1 1 1 1" Rotation="30" Height="5" PosY="60" PosX="20"/>
+    <Square Width="2" Color="1 0 0 1" Rotation="0" Height="3" PosY="60" PosX="20"/>
+    <Square Width="1" Color="1 1 0 1" Rotation="45" Height="1" PosY="65" PosX="10"/>
+    <Square Width="1" Color="1 0 1 1" Rotation="0" Height="1" PosY="65" PosX="30"/>
+    <Square Width="1" Color="0 1 0 1" Rotation="0" Height="1" PosY="55" PosX="10"/>
+    <Square Width="1" Color="0 0 0 1" Rotation="0" Height="1" PosY="55" PosX="30"/>
+</MyGameLevel>

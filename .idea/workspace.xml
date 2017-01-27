@@ -1,8 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="669fbc95-4c41-43d3-8186-87b0a5e0383a" name="Default" comment="">
+    <list default="true" id="669fbc95-4c41-43d3-8186-87b0a5e0383a" name="Default" comment="Completed Assignment 01">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/sounds/BGClip.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/sounds/BlueLevel_cue.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/sounds/MyGame_cue.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/fav_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/puzzle2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/Consolas-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fav_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/Consolas-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/Consolas-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/Consolas-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/Consolas-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/Segment7-96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/system-default-font.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/minion_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/puzzle2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/nbproject/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/nbproject/project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/BlueLevel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/GrayLevel.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/SmallViewport.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Engine_Core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Engine_GameLoop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Engine_Input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Engine_VertexBuffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Resources/Engine_AudioClips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Resources/Engine_DefaultResources.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Resources/Engine_ResourceMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Resources/Engine_TextFileLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Renderable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Scene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/SimpleShader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/GLSLShaders/SimpleFS.glsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/GLSLShaders/SimpleVS.glsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/BlueLevel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/GrayLevel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/MyGame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/Util/JSONSceneFileParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/Util/SceneFileParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/lib/gl-matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/nbproject/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/nbproject/project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/Consolas-16.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/Consolas-24.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/Consolas-32.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/Consolas-72.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/Segment7-96.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/fonts/system-default-font.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Engine_Core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Engine_GameLoop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Engine_Input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Engine_VertexBuffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Resources/Engine_AudioClips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Resources/Engine_DefaultResources.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Resources/Engine_Fonts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Resources/Engine_ResourceMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Resources/Engine_TextFileLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Resources/Engine_Textures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Objects/InteractiveBound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Objects/SpriteSource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Renderables/FontRenderable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Renderables/Renderable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Renderables/SpriteAnimateRenderable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Renderables/SpriteRenderable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Renderables/TextureRenderable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Scene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Shaders/SimpleShader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Shaders/SpriteShader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Shaders/TextureShader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/GLSLShaders/SimpleFS.glsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/GLSLShaders/SimpleVS.glsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/GLSLShaders/TextureFS.glsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/GLSLShaders/TextureVS.glsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/GameOver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/MyGame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/AnimationView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/MainView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/ZoomedBound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter10/10.1.TiledObjects/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter10/10.1.TiledObjects/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter10/10.2.ParallaxObjects/public_html/src/Engine/Particles/Particle.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter10/10.2.ParallaxObjects/public_html/src/Engine/Particles/Particle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter3/3.2.MatrixTransform/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter3/3.2.MatrixTransform/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter3/3.5.CameraObjects/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter3/3.5.CameraObjects/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter4/4.1.GameLoop/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter4/4.1.GameLoop/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter4/4.3.ResourceMapAndShaderLoader/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter4/4.3.ResourceMapAndShaderLoader/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter4/4.4.SceneFile/public_html/src/MyGame/MyGame.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter4/4.4.SceneFile/public_html/src/MyGame/MyGame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter4/4.4.SceneFile/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter4/4.4.SceneFile/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter4/4.5.SceneObjects/public_html/src/MyGame/BlueLevel.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter4/4.5.SceneObjects/public_html/src/MyGame/BlueLevel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter4/4.5.SceneObjects/public_html/src/MyGame/MyGame.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter4/4.5.SceneObjects/public_html/src/MyGame/MyGame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter4/4.6.AudioSupport/public_html/src/MyGame/BlueLevel.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter4/4.6.AudioSupport/public_html/src/MyGame/BlueLevel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter4/4.6.AudioSupport/public_html/src/MyGame/MyGame.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter4/4.6.AudioSupport/public_html/src/MyGame/MyGame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter4/4.6.AudioSupport/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter4/4.6.AudioSupport/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter5/5.1.TextureShaders/public_html/src/MyGame/BlueLevel.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter5/5.1.TextureShaders/public_html/src/MyGame/BlueLevel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter5/5.1.TextureShaders/public_html/src/MyGame/MyGame.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter5/5.1.TextureShaders/public_html/src/MyGame/MyGame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter6/6.1.GameObjects/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter6/6.1.GameObjects/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter6/6.2.FrontAndChase/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter6/6.2.FrontAndChase/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter6/6.3.BBoxAndCollisions/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter6/6.3.BBoxAndCollisions/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter6/6.5.GeneralPixelCollisions/public_html/src/Engine/Renderables/SpriteRenderable.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter6/6.5.GeneralPixelCollisions/public_html/src/Engine/Renderables/SpriteRenderable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter6/6.5.GeneralPixelCollisions/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter6/6.5.GeneralPixelCollisions/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.1.CameraManipulations/public_html/src/Engine/BoundingBox.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.1.CameraManipulations/public_html/src/Engine/BoundingBox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.1.CameraManipulations/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.1.CameraManipulations/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.2.CameraInterpolations/public_html/src/Engine/Cameras/Camera_Manipulation.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.2.CameraInterpolations/public_html/src/Engine/Cameras/Camera_Manipulation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.2.CameraInterpolations/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.2.CameraInterpolations/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.3.CameraShake/public_html/src/Engine/Cameras/Camera_Manipulation.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.3.CameraShake/public_html/src/Engine/Cameras/Camera_Manipulation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.3.CameraShake/public_html/src/Engine/Renderables/SpriteRenderable.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.3.CameraShake/public_html/src/Engine/Renderables/SpriteRenderable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.3.CameraShake/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.3.CameraShake/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.5.MouseInput/public_html/src/Engine/Cameras/Camera.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.5.MouseInput/public_html/src/Engine/Cameras/Camera.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.5.MouseInput/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.5.MouseInput/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.6.NotUsed-LineSupport/public_html/src/Engine/Cameras/Camera_Manipulation.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.6.NotUsed-LineSupport/public_html/src/Engine/Cameras/Camera_Manipulation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.6.NotUsed-LineSupport/public_html/src/Engine/Utils/BoundingBox.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.6.NotUsed-LineSupport/public_html/src/Engine/Utils/BoundingBox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter7/7.6.NotUsed-LineSupport/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter7/7.6.NotUsed-LineSupport/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter8/8.1.GlobalAmbient/public_html/src/Engine/Renderables/SpriteRenderable.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter8/8.1.GlobalAmbient/public_html/src/Engine/Renderables/SpriteRenderable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter8/8.3.MultipleLights/public_html/src/Engine/Cameras/Camera_Manipulation.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter8/8.3.MultipleLights/public_html/src/Engine/Cameras/Camera_Manipulation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter8/8.4.NormalMapsAndIlluminationShaders/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter8/8.4.NormalMapsAndIlluminationShaders/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter8/8.6.DirectionalAndSpotLights/public_html/src/Engine/Renderables/SpriteRenderable.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter8/8.6.DirectionalAndSpotLights/public_html/src/Engine/Renderables/SpriteRenderable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter9/9.1.RigidShapeBounds/public_html/src/Engine/Cameras/Camera.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter9/9.1.RigidShapeBounds/public_html/src/Engine/Cameras/Camera.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter9/9.1.RigidShapeBounds/public_html/src/Engine/Renderables/SpriteRenderable.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter9/9.1.RigidShapeBounds/public_html/src/Engine/Renderables/SpriteRenderable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter9/9.2.RigidShapeImpulse/public_html/src/Engine/Utils/BoundingBox.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter9/9.2.RigidShapeImpulse/public_html/src/Engine/Utils/BoundingBox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter9/9.2.RigidShapeImpulse/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter9/9.2.RigidShapeImpulse/public_html/src/lib/gl-matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter9/9.4.ParticleEmitters/public_html/src/Engine/Cameras/Camera.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter9/9.4.ParticleEmitters/public_html/src/Engine/Cameras/Camera.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/Chapter9/9.4.ParticleEmitters/public_html/src/Engine/Utils/BoundingBox.js" afterPath="$PROJECT_DIR$/BookChapters/Chapter9/9.4.ParticleEmitters/public_html/src/Engine/Utils/BoundingBox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/FinalGame/public_html/src/AdventuresOfDye/GameLevel_01.js" afterPath="$PROJECT_DIR$/BookChapters/FinalGame/public_html/src/AdventuresOfDye/GameLevel_01.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/FinalGame/public_html/src/AdventuresOfDye/GameLevel_02.js" afterPath="$PROJECT_DIR$/BookChapters/FinalGame/public_html/src/AdventuresOfDye/GameLevel_02.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookChapters/FinalGame/public_html/src/lib/gl-matrix.js" afterPath="$PROJECT_DIR$/BookChapters/FinalGame/public_html/src/lib/gl-matrix.js" />
     </list>
     <ignored path="CSS490D.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,52 +155,90 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SpriteSource.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Objects/SpriteSource.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+              <folding>
+                <element signature="n#!!doc;n#SpriteSource#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/MainView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InteractiveBound.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Objects/InteractiveBound.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="71" column="40" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MyGame.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/MyGame/MyGame.js">
+        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/MyGame.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="207" column="12" selection-start-line="207" selection-start-column="12" selection-end-line="207" selection-end-column="12" />
+            <state relative-caret-position="68">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#2199#2729#0" expanded="false" />
-                <element signature="e#5867#7034#0" expanded="false" />
+                <element signature="e#3219#3324#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/index.html">
+      <file leaf-file-name="AnimationView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/AnimationView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="96" selection-start-line="21" selection-start-column="96" selection-end-line="21" selection-end-column="96" />
+            <state relative-caret-position="148">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZoomedBound.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/ZoomedBound.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="4" column="90" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="90" />
               <folding>
-                <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#!!doc;n#ZoomedBound#0" expanded="false" />
+                <element signature="e#354#1137#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Engine_Input.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_Input.js">
+      <file leaf-file-name="SpriteRenderable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Renderables/SpriteRenderable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Engine_GameLoop.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_GameLoop.js">
+      <file leaf-file-name="Camera.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Camera.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="296">
+              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,6 +277,35 @@
         <option value="$PROJECT_DIR$/JayseFarrell_MP1/public_html/index.html" />
         <option value="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/MyGame/MyGame.js" />
         <option value="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_Input.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/nbproject/project.xml" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/BlueLevel.xml" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/GrayLevel.json" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Resources/Engine_TextFileLoader.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/MyGame.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Engine_GameLoop.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Engine_Input.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/SmallViewport.json" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/Util/SceneFileParser.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Resources/Engine_ResourceMap.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Resources/Engine_DefaultResources.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/Util/JSONSceneFileParser.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Camera.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/BlueLevel.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/GrayLevel.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP2/public_html/index.html" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/nbproject/project.xml" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Objects/SpriteSource.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Objects/InteractiveBound.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Resources/Engine_ResourceMap.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Camera.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Objects/SpriteSource.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Engine_Input.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/ZoomedBound.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/index.html" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/MainView.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Objects/InteractiveBound.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/AnimationView.js" />
+        <option value="$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/MyGame.js" />
       </list>
     </option>
   </component>
@@ -129,7 +328,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -147,6 +346,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -176,7 +376,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JayseFarrell_MP1" />
+              <option name="myItemId" value="JayseFarrell_MP3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -194,7 +394,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JayseFarrell_MP1" />
+              <option name="myItemId" value="JayseFarrell_MP3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSS490D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSS490D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JayseFarrell_MP3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSS490D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSS490D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JayseFarrell_MP3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -216,129 +472,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JayseFarrell_MP1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS490D" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS490D" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JayseFarrell_MP1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Renderable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS490D" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS490D" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JayseFarrell_MP1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS490D" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS490D" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JayseFarrell_MP1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS490D" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS490D" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JayseFarrell_MP1" />
+              <option name="myItemId" value="JayseFarrell_MP3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Renderable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -365,25 +508,34 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP3\public_html\assets" />
+      <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP3" />
+      <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP2\public_html" />
+      <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP2" />
       <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP1_2" />
-      <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrellMP1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP3\public_html\src\Engine" />
       <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP1\public_html\src\Engine\Renderable" />
       <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP1\public_html" />
       <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP1_2\public_html\src" />
       <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP1_2\public_html" />
-      <recent name="C:\Users\Jayse\OneDrive\CSS490D\JayseFarrell_MP1_2" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html_3">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/CSS490D/JayseFarrell_MP1_2/public_html/index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration default="false" name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CSS490D/BookChapters/Chapter4/4.6.AudioSupport/public_html/index.html">
       <method />
     </configuration>
-    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CSS490D/BookChapters/Chapter4/4.2.KeyboardSupport/public_html/index.html">
+    <configuration default="false" name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CSS490D/BookChapters/FinalGame/public_html/index.html">
       <method />
     </configuration>
-    <configuration default="false" name="index.html_3" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/CSS490D/JayseFarrell_MP1/public_html/index.html">
+    <configuration default="false" name="index.html (4)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CSS490D/JayseFarrell_MP2/public_html/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CSS490D/JayseFarrell_MP3/public_html/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CSS490D/BookChapters/Chapter5/5.4.FontSupport/public_html/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -439,16 +591,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html_3" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (4)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html_3" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
         <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (4)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -470,52 +626,71 @@
       <workItem from="1484004652443" duration="13897000" />
       <workItem from="1484091200571" duration="11675000" />
       <workItem from="1484173181690" duration="9279000" />
-      <workItem from="1484185263842" duration="860000" />
+      <workItem from="1484185263842" duration="971000" />
+      <workItem from="1484264048108" duration="1001000" />
+      <workItem from="1484703686547" duration="13384000" />
+      <workItem from="1484779306244" duration="8539000" />
+      <workItem from="1484788978789" duration="426000" />
+      <workItem from="1485224116611" duration="5328000" />
+      <workItem from="1485327612780" duration="3623000" />
+      <workItem from="1485392059388" duration="5954000" />
+      <workItem from="1485413169115" duration="3761000" />
+      <workItem from="1485451748433" duration="1429000" />
+      <workItem from="1485466603458" duration="10859000" />
     </task>
+    <task id="LOCAL-00001" summary="Completed Assignment 01">
+      <created>1484186169791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1484186169791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37190000" />
+    <option name="totallyTimeSpent" value="91605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18005952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15773809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3584288" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3502455" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19122024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14955357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34697217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3453355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -530,7 +705,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Completed Assignment 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Assignment 01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -550,279 +726,395 @@
           <line>120</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/GrayLevel.js</url>
+          <line>130</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/GrayLevel.js</url>
+          <line>46</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/GrayLevel.js</url>
+          <line>181</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/Util/JSONSceneFileParser.js</url>
+          <line>54</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="82" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/MyGame/MyGame.js">
+    <entry file="file://$PROJECT_DIR$/BookChapters/FinalGame/public_html/src/Engine/Core/Engine_Core.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="119" column="53" selection-start-line="119" selection-start-column="53" selection-end-line="119" selection-end-column="53" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#2199#2729#0" expanded="false" />
-            <element signature="e#5867#7034#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="177">
+          <caret line="132" column="51" selection-start-line="132" selection-start-column="51" selection-end-line="132" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/index.html">
+    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter7/7.3.CameraShake/public_html/src/Engine/Cameras/Camera.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="96" selection-start-line="21" selection-start-column="96" selection-end-line="21" selection-end-column="96" />
-          <folding>
-            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_Input.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/MyGame/MyGame.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#2199#2729#0" expanded="false" />
-            <element signature="e#5867#7034#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="80" selection-start-line="39" selection-start-column="80" selection-end-line="39" selection-end-column="80" />
-          <folding>
-            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_GameLoop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Renderable/Renderable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_Input.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/MyGame/MyGame.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#2199#2729#0" expanded="false" />
-            <element signature="e#5867#7034#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_GameLoop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_Input.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrellMP1/public_html/index.html" />
-    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter3/3.5.CameraObjects/nbproject/project.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrellMP1/nbproject/project.xml" />
-    <entry file="file://$USER_HOME$/WebstormProjects/A2-3/src/angular.js">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/SmallViewport.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrellMP1/public_html/src/MyGame/MyGame.js" />
-    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter4/4.2.KeyboardSupport/public_html/index.html">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/assets/GrayLevel.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter4/4.2.KeyboardSupport/public_html/src/MyGame/MyGame.js">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Resources/Engine_TextFileLoader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+        <state relative-caret-position="216">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrellMP1/public_html/index.html" />
-    <entry file="file://$PROJECT_DIR$/JayseFarrellMP1/public_html/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/CSS/style.css">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/Util/SceneFileParser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="408">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Camera.js">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Resources/Engine_ResourceMap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="1122">
+          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/fav_icon.png">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/fav_icon.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_Core.js">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="680">
+          <caret line="40" column="58" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Engine_Input.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Engine_GameLoop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7327">
+          <caret line="431" column="0" selection-start-line="431" selection-start-column="0" selection-end-line="431" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Engine_Core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Core/Resources/Engine_DefaultResources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookChapters/FinalGame/public_html/src/Engine/Core/Resources/Engine_TextFileLoader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/nbproject/project.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/nbproject/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/BlueLevel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter5/5.4.FontSupport/public_html/assets/Consolas-72.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter5/5.1.TextureShaders/public_html/assets/BlueLevel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter5/5.1.TextureShaders/public_html/assets/minion_portal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter5/5.1.TextureShaders/public_html/assets/minion_portal.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter5/5.1.TextureShaders/public_html/assets/minion_collector.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter5/5.1.TextureShaders/public_html/assets/minion_collector.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookChapters/Chapter5/5.1.TextureShaders/public_html/src/MyGame/MyGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Shaders/TextureShader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Engine_Core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Shaders/SpriteShader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Shaders/SimpleShader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="81" column="2" selection-start-line="81" selection-start-column="2" selection-end-line="81" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/minion_sprite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Resources/Engine_Textures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Resources/Engine_ResourceMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="82" column="4" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Engine_GameLoop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/assets/Consolas-72.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Renderables/TextureRenderable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Resources/Engine_DefaultResources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/GrayLevel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1005#1366#0" expanded="false" />
+            <element signature="e#4252#4384#0" expanded="false" />
+            <element signature="e#4642#4774#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Renderable/SquareRenderable.js">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/Util/JSONSceneFileParser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        <state relative-caret-position="270">
+          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Renderable/CircleRenderable.js" />
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/SimpleShader.js">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/Engine/Camera.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Renderables/Renderable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
-          <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP2/public_html/src/MyGame/MyGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Core/Engine_Input.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Renderable/Renderable.js">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Camera.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="96" selection-start-line="21" selection-start-column="96" selection-end-line="21" selection-end-column="96" />
-          <folding>
-            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_Input.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/Engine/Core/Engine_GameLoop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/nbproject/project.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        <state relative-caret-position="296">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP1/public_html/src/MyGame/MyGame.js">
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="207" column="12" selection-start-line="207" selection-start-column="12" selection-end-line="207" selection-end-column="12" />
+        <state relative-caret-position="156">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Renderables/SpriteRenderable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Objects/SpriteSource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding>
+            <element signature="n#!!doc;n#SpriteSource#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/MainView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/Engine/Objects/InteractiveBound.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="71" column="40" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/ZoomedBound.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="90" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="90" />
+          <folding>
+            <element signature="n#!!doc;n#ZoomedBound#0" expanded="false" />
+            <element signature="e#354#1137#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/Views/AnimationView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayseFarrell_MP3/public_html/src/MyGame/MyGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#2199#2729#0" expanded="false" />
-            <element signature="e#5867#7034#0" expanded="false" />
+            <element signature="e#3219#3324#0" expanded="false" />
           </folding>
         </state>
       </provider>

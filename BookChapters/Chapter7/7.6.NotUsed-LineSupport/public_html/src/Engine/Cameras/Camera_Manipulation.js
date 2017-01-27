@@ -27,7 +27,7 @@ Camera.prototype.panBy = function (dx, dy) {
     this.mCameraState.setCenter(newC);
 };
 
-// pan the camera to ensure aXform is within camera bounds
+// pan the camera to ensure aXform is within camera mIntBound
 // this is complementary to the ClampAtBound: instead of clamping aXform, now, move the camera
 Camera.prototype.panWith = function (aXform, zone) {
     var status = this.collideWCBound(aXform, zone);

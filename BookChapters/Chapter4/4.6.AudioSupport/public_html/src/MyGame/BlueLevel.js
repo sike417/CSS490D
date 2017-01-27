@@ -3,7 +3,7 @@
  * This is the logic of our game. 
  */
 /*jslint node: true, vars: true */
-/*global gEngine: false, Scene: false, MyGame: false, SceneFileParser: false */
+/*global gEngine: false, Scene: false, MyGame: false, JSONSceneFileParser: false */
 /* find out more about jslint: http://www.jslint.com/help.html */
 
 "use strict";  // Operate in Strict mode such that variables must be declared before used!
@@ -14,7 +14,7 @@ function BlueLevel() {
     this.kCue = "assets/sounds/BlueLevel_cue.wav";
 
     // scene file name
-    this.kSceneFile = "assets/BlueLevel.xml";
+    this.kSceneFile = "assets/GrayLevel.xml";
     // all squares
     this.mSqSet = [];        // these are the Renderable objects
 
@@ -46,7 +46,7 @@ BlueLevel.prototype.unloadScene = function () {
 };
 
 BlueLevel.prototype.initialize = function () {
-    var sceneParser = new SceneFileParser(this.kSceneFile);
+    var sceneParser = new JSONSceneFileParser(this.kSceneFile);
 
     // Step A: Read in the camera
     this.mCamera = sceneParser.parseCamera();

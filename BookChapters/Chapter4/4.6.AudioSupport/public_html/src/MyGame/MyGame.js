@@ -3,7 +3,7 @@
  * This is the logic of our game. 
  */
 /*jslint node: true, vars: true */
-/*global gEngine: false, Scene: false, BlueLevel: false, Camera: false, Renderable: false, vec2: false */
+/*global gEngine: false, Scene: false, GrayLevel: false, Camera: false, Renderable: false, vec2: false */
 /* find out more about jslint: http://www.jslint.com/help.html */
 
 "use strict";  // Operate in Strict mode such that variables must be declared before used!
@@ -42,7 +42,7 @@ MyGame.prototype.unloadScene = function() {
 
     // Step B: starts the next level
     // starts the next level
-    var nextLevel = new BlueLevel();  // next level to be loaded
+    var nextLevel = new GrayLevel();  // next level to be loaded
     gEngine.Core.startScene(nextLevel);
 };
 
@@ -60,7 +60,7 @@ MyGame.prototype.draw = function () {
 
     // Step B: starts the next level
     // starts the next level
-    var nextLevel = new BlueLevel();  // next level to be loaded
+    var nextLevel = new GrayLevel();  // next level to be loaded
     gEngine.Core.startScene(nextLevel);
 };
 

@@ -39,7 +39,7 @@ function Camera(wcCenter, wcWidth, viewportArray, bound) {
     if (bound !== undefined) {
         this.mViewportBound = bound;
     }
-    this.mScissorBound = [];  // use for bounds
+    this.mScissorBound = [];  // use for mIntBound
     this.setViewport(viewportArray, this.mViewportBound);
     this.mNearPlane = 0;
     this.mFarPlane = 1000;

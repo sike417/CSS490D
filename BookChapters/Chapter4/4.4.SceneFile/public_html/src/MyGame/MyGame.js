@@ -3,7 +3,7 @@
  * This is the logic of our game. 
  */
 /*jslint node: true, vars: true */
-/*global gEngine: false, SceneFileParser: false */
+/*global gEngine: false, JSONSceneFileParser: false */
 /* find out more about jslint: http://www.jslint.com/help.html */
 
 "use strict";  // Operate in Strict mode such that variables must be declared before used!
@@ -28,7 +28,7 @@ MyGame.prototype.unloadScene = function () {
 };
 
 MyGame.prototype.initialize = function () {
-    var sceneParser = new SceneFileParser(this.kSceneFile);
+    var sceneParser = new JSONSceneFileParser(this.kSceneFile);
 
     // Step A: Parse the camera
     this.mCamera = sceneParser.parseCamera();

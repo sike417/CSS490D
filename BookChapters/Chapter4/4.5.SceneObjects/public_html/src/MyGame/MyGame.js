@@ -3,7 +3,7 @@
  * This is the logic of our game. 
  */
 /*jslint node: true, vars: true */
-/*global gEngine, Scene, SceneFileParser, BlueLevel, Camera, vec2, Renderable */
+/*global gEngine, Scene, JSONSceneFileParser, GrayLevel, Camera, vec2, Renderable */
 /* find out more about jslint: http://www.jslint.com/help.html */
 
 "use strict";  // Operate in Strict mode such that variables must be declared before used!
@@ -23,7 +23,7 @@ MyGame.prototype.unloadScene = function () {
     //          nothing for this level
 
     // Step B: starts the next level
-    var nextLevel = new BlueLevel();  // next level to be loaded
+    var nextLevel = new GrayLevel();  // next level to be loaded
     gEngine.Core.startScene(nextLevel);
 };
 

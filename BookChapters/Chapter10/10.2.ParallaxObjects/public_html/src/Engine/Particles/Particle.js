@@ -10,7 +10,7 @@
 "use strict";
 
 function Particle(pos) {
-    this.kPadding = 0.5;   // for drawing particle bounds
+    this.kPadding = 0.5;   // for drawing particle mIntBound
     
     this.mPosition = pos;  // this is likely to be a reference to xform.mPosition
     this.mVelocity = vec2.fromValues(0, 0);
