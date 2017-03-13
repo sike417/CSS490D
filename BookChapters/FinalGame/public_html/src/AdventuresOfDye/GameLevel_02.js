@@ -107,7 +107,7 @@ GameLevel_02.prototype.initialize = function () {
     gEngine.DefaultResources.setGlobalAmbientIntensity(0.2);
 
     // parse the entire scene
-    var parser = new JSONSceneFileParser(this.kLevelFile);
+    var parser = new SceneFileParser(this.kLevelFile);
     this.mCamera = parser.parseCamera();
     this.mGlobalLightSet = parser.parseLights();
 

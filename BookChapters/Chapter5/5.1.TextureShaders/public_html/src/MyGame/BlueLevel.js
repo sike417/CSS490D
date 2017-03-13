@@ -4,14 +4,14 @@
  */
 
 /*jslint node: true, vars: true */
-/*global gEngine: false, Scene: false, MyGame:false, JSONSceneFileParser: false */
+/*global gEngine: false, Scene: false, MyGame:false, SceneFileParser: false */
 /* find out more about jslint: http://www.jslint.com/help.html */
 
 "use strict";  // Operate in Strict mode such that variables must be declared before used!
 
 function BlueLevel() {
     // scene file name
-    this.kSceneFile = "assets/GrayLevel.xml";
+    this.kSceneFile = "assets/BlueLevel.xml";
 
      // textures: (Note: jpg does not support transparency)
     this.kPortal = "assets/minion_portal.jpg";
@@ -45,7 +45,7 @@ BlueLevel.prototype.unloadScene = function () {
 };
 
 BlueLevel.prototype.initialize = function () {
-    var sceneParser = new JSONSceneFileParser(this.kSceneFile);
+    var sceneParser = new SceneFileParser(this.kSceneFile);
 
     // Step A: Read in the camera
     this.mCamera = sceneParser.parseCamera();

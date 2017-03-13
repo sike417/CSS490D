@@ -13,22 +13,22 @@ ZoomedBound.prototype.initialize = function()
     this.mCameraTop = new Camera(
         vec2.fromValues(xform.getXPos(), xform.getYPos() + xform.getHeight() / 2),
         xform.getWidth() / 2,
-        [45, 180, 90, 90]
+        [55, 220, 110, 110]
     );
     this.mCameraLeft = new Camera(
         vec2.fromValues(xform.getXPos() + xform.getWidth() / 2, xform.getYPos()),
         xform.getWidth() / 2,
-        [90, 90, 90, 90]
+        [110, 110, 110, 110]
     );
     this.mCameraRight = new Camera(
         vec2.fromValues(xform.getXPos() - xform.getWidth() / 2, xform.getYPos()),
         xform.getWidth() / 2,
-        [0, 90, 90, 90]
+        [0, 110, 110, 110]
     );
     this.mCameraBottom = new Camera(
         vec2.fromValues(xform.getXPos(), xform.getYPos() - xform.getHeight() / 2),
         xform.getWidth() / 2,
-        [45, 0, 90, 90]
+        [55, 0, 110, 110]
     );
 };
 

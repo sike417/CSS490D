@@ -73,6 +73,22 @@ SpriteAnimateRenderable.eAnimationType = Object.freeze({
     eAnimateSwing: 2      // Animate from first (left) towards the right, when hit the end, animates backwards 
 });
 
+SpriteAnimateRenderable.prototype.setSpriteSequenceUV = function(
+    topUV,
+    leftUV,
+    elmWidthInUV,
+    elmHeightInUV,
+    numElements,
+    wPaddingInUV
+){
+    this.mNumElems = numElements;   // number of elements in animation
+    this.mFirstElmLeft = leftUV;
+    this.mElmTop = topUV;
+    this.mElmWidth = elmWidthInUV;
+    this.mElmHeight = elmHeightInUV;
+    this.mWidthPadding = wPaddingInUV;
+    this._initAnimation();
+};
 
 // Always set the left-most element to be the first
 SpriteAnimateRenderable.prototype.setSpriteSequence = function (

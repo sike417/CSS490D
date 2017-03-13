@@ -4,7 +4,7 @@
  */
 
 /*jslint node: true, vars: true */
-/*global gEngine: false, Scene: false, GrayLevel:false, Camera: false, vec2: false,
+/*global gEngine: false, Scene: false, BlueLevel:false, Camera: false, vec2: false,
   TextureRenderable: false, Renderable: false */
 /* find out more about jslint: http://www.jslint.com/help.html */
 
@@ -38,7 +38,7 @@ MyGame.prototype.unloadScene = function () {
     gEngine.Textures.unloadTexture(this.kCollector);
 
     // starts the next level
-    var nextLevel = new GrayLevel();  // next level to be loaded
+    var nextLevel = new BlueLevel();  // next level to be loaded
     gEngine.Core.startScene(nextLevel);
 };
 

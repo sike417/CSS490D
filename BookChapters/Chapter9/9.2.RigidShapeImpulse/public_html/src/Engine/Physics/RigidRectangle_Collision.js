@@ -25,6 +25,7 @@ RigidRectangle.prototype.collidedRectRect = function(r1, r2, collisionInfo) {
     var xDepth = (r1.getWidth() / 2) + (r2.getWidth() / 2) - Math.abs(vFrom1to2[0]);
     if (xDepth > 0) {
         var yDepth = (r1.getHeight() / 2) + (r2.getHeight() / 2) - Math.abs(vFrom1to2[1]);
+
         if (yDepth > 0)  {
             //axis of least penetration
             if (xDepth < yDepth) {

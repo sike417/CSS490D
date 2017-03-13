@@ -45,6 +45,7 @@ gEngine.Input = (function () {
         J : 74,
         K : 75,
         L : 76,
+        Q : 81,
         R : 82,
         S : 83,
         T : 84,
@@ -64,6 +65,7 @@ gEngine.Input = (function () {
     var mIsKeyPressed = [];
     // Click events: once an event is set, it will remain there until polled
     var mIsKeyClicked = [];
+    var mIsKeyReleased = [];
 
 
     // Event handler functions
@@ -72,6 +74,7 @@ gEngine.Input = (function () {
     };
     var _onKeyUp = function (event) {
         mIsKeyPressed[event.keyCode] = false;
+        mIsKeyReleased[event.keyCode] = true;
     };
 
     var initialize = function () {
@@ -80,6 +83,7 @@ gEngine.Input = (function () {
             mIsKeyPressed[i] = false;
             mKeyPreviousState[i] = false;
             mIsKeyClicked[i] = false;
+            mIsKeyReleased[i] = false;
         }
 
         // register handlers 
@@ -91,6 +95,7 @@ gEngine.Input = (function () {
         var i;
         for (i = 0; i < kKeys.LastKeyCode; i++) {
             mIsKeyClicked[i] = (!mKeyPreviousState[i]) && mIsKeyPressed[i];
+            mIsKeyReleased[i] = (mKeyPreviousState[i] && !mIsKeyPressed[i]);
             mKeyPreviousState[i] = mIsKeyPressed[i];
         }
     };
@@ -104,11 +109,16 @@ gEngine.Input = (function () {
         return (mIsKeyClicked[keyCode]);
     };
 
+    var isKeyReleased = function(keyCode){
+        return (mIsKeyReleased[keyCode]);
+    };
+
     var mPublic = {
         initialize: initialize,
         update: update,
         isKeyPressed: isKeyPressed,
         isKeyClicked: isKeyClicked,
+        isKeyReleased : isKeyReleased,
         keys: kKeys
     };
     return mPublic;
